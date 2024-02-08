@@ -18,5 +18,7 @@ int main() {
     std::cout << "Sum: " << num1 + num2 << std::endl;
     std::cout << "Diff: " << num1 - num2 << std::endl;
     std::cout << "Multi: " << num1 * num2 << std::endl;
+    std::cout << "Div: " << num1 / num2 << std::endl;
+
     return 0;
 }
