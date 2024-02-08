@@ -13,6 +13,6 @@ int main() {
 
     // Вывод суммы введенных чисел
     std::cout << "Sum: " << num1 + num2 << std::endl;
-
+    std::cout << "Diff: " << num1 - num2 << std::endl;
     return 0;
 }
